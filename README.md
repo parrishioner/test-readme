@@ -2,6 +2,16 @@
 
 This README would normally document whatever steps are necessary to get your application up and running. 
 
+### Whitespace characters
+
+* U+0009: 	
+* U+0020:  
+* U+00A0:  
+* U+00AD: ­
+* U+034F: ͏
+
+
+
 ### What is this repository for? ###
 
 * Quick summary
