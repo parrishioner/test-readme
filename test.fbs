@@ -1,0 +1,28 @@
+namespace MyNamespace;
+
+// Define a table representing a person
+table Person {
+  name: string;
+  age: int;
+  address: Address;
+}
+
+// Define a table representing an address
+table Address {
+  street: string;
+  city: string;
+  state: string;
+  zip: int;
+}
+
+// Define an enum representing different types of hobbies
+enum Hobby: byte {
+  Reading,
+  Writing,
+  Coding
+}
+
+// Define a root table that can contain a list of people
+table Root {
+  people: [Person];
+}
