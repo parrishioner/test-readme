@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running. You can add a description here.
+This README would normally document whatever steps are necessary to get your application up and running.
 
 ### Whitespace characters
 
